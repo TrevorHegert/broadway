@@ -1,11 +1,11 @@
 html {
   text-align: center;
+  font-family: Helevtica, sans-serif;
 }
 
 .head {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   background-size: cover;
-  font-family: Helevtica, sans-serif;
   color: white;
 }
 
@@ -21,4 +21,36 @@ html {
 .divide {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   background-size: cover;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 18px;
+}
+
+.footer #copy {
+  font-size: 11px;
+}
+
+.link {
+  color: white;
 }
