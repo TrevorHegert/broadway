@@ -1,3 +1,24 @@
 html {
   text-align: center;
 }
+
+.head {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-size: cover;
+  font-family: Helevtica, sans-serif;
+  color: white;
+}
+
+.head h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.head p {
+  font-size: 18px;
+}
+
+.divide {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-size: cover;
+}
